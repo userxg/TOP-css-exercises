@@ -1,0 +1,16 @@
+.cl1
+{
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+
+.cl2{
+    background-color: yellow;
+}
+
+.cl1,
+.cl2 {
+    font-style: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
